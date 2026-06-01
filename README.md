@@ -1,4 +1,4 @@
-Live:- "heartfelt-heliotrope-74a25f.netlify.app"
+Live:https://heartfelt-heliotrope-74a25f.netlify.app/
 
 # React + Vite
 
